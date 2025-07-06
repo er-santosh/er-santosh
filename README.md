@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Tharu</h1>
-<h3 align="center">Full Stack Developer with a passion for delivering seamless, scalable, and user-centric web applications. Proficient across the entire stack—from modern front-end frameworks like React to robust back-end architectures and databases. Adept at building end-to-end solutions that are performant, maintainable, and aligned with business goals.</h3>
+<h3 align="center">Full Stack Developer with a passion for delivering seamless, scalable, and user-centric web applications. Proficient across the entire stack—from modern front-end frameworks to robust back-end architectures and databases. Adept at building end-to-end solutions that are performant, maintainable, and aligned with business goals.</h3>
 
 - 🔭 I’m currently working on [Astrid Portal](https://astridportal.myshopify.com)
 
