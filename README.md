@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Astrid Portal](https://astridportal.myshopify.com)
 
-- 🤝 I’m interested in **web development**
+- 👀 I’m interested in **web development**
 
 - 📫 How to reach me **er.santoshtharu@gmail.com**
 
